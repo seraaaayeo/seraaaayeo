@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
 
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraaaayeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
