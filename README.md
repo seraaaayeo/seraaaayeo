@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=appveyor=github&link=https://sol2gram.tistory.com/)](https://sol2gram.tistory.com/)
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+
 
 </div>
 
