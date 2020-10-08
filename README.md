@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sol2gram.tistory.com/)](https://sol2gram.tistory.com/)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraaaayeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
