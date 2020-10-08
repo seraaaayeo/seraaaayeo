@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraaaayeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Interests
+* Machine Learning & Deep Learning
+* Computer Vision & Image Processing
+
+<div align="center">
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-&logo=github&link=https://sol2gram.tistory.com/)](https://sol2gram.tistory.com/)
 
 </div>
